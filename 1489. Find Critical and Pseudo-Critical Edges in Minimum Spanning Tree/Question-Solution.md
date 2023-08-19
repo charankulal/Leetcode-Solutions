@@ -26,6 +26,7 @@ The edges 2, 3, 4, and 5 are only part of some MSTs, therefore they are consider
 
 
 Example 2:
+
 ![image](https://github.com/charankulal/Leetcode-Solutions/assets/78293787/951259e5-06ed-4726-8aef-52db0dcc777b)
 ```
 Input: n = 4, edges = [[0,1,1],[1,2,1],[2,3,1],[0,3,1]]
